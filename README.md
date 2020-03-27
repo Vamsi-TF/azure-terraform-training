@@ -10,7 +10,7 @@ az login --service-principal -u $client_id -p $client_secret -t $tenant_id
 
 Resouces:
 
-*Resource Groups*
+*Resource Groups*\n
 *Network- Vnet, Subnets, NSGs, Public IPs etc*
 *VMs - Windows VM, Linux VM*
 *Storage Accounts*
